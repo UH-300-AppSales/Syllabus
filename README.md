@@ -1,11 +1,12 @@
-![Screenshot](https://raw.github.com/UA-CS493/Syllabus/master/Resources/Images/header.png)
+![Screenshot](https://raw.githubusercontent.com/UH-300-021/Syllabus/master/Resources/Images/header.png)
 
-Maintainable and Scalable Systems through Collaboration, VCS, and Open Source Software (CS 491/591)
+~~Maintainable and Scalable Systems through Collaboration, VCS, and Open Source Software (CS 491/591)~~ 
+Making Apps
 ========
 
 The class syllabus lives here. Make sure to watch this repository so you can be notified if things change. You can click the little eye at the top of the page to change your settings so you receive email notifications if things change. This class is highly experimental in its techniques and class structure, but is actually very modern in its approach to using the current and respected tools of the day for efficient and maintainable software engineering practices. Below you will find the meta about the class as well as a tentative schedule of assignments and tests. Happy Coding!
 
-<b>Where: </b> SERC 2039       <b>When: </b> 9AM-12PM
+<b>Where: </b> AIME 111       <b>When: </b> Tuesdays 2:30-4:30 PM
 
 ## Table of Contents
 * [Class Structure](#class-structure)
@@ -120,7 +121,7 @@ First things first - you have to have a GitHub account. No account, no grade. Yo
 
 ## About the Assignments
 
-Each assignment will be a separate repository inside of the UA-CS493 organization, and those links can be found in each Assignment section in this Syllabus as they are posted. Assignments in this class aren't your typical CS assignment; each one is created, maintained and graded through GitHub. Each assignment contains a <code>README.md</code> file in the top-level directory of the repository which contains all of the information about the assignment, the rubric used to grade your assignment, and any instructions/tips necessary to complete the project. Below is the order of operations of beginning, working on, and completing an assignment.
+Each assignment will be a separate repository inside of the UH-300-021 organization, and those links can be found in each Assignment section in this Syllabus as they are posted. Assignments in this class aren't your typical CS assignment; each one is created, maintained ~~and graded~~ through GitHub. Each assignment contains a <code>README.md</code> file in the top-level directory of the repository which contains all of the information about the assignment, the rubric used to grade your assignment, and any instructions/tips necessary to complete the project. Below is the order of operations of beginning, working on, and completing an assignment.
 
 **Order of Operations**
 * Fork the assignment
