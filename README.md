@@ -1,6 +1,6 @@
 ![Screenshot](https://raw.githubusercontent.com/UH-300-021/Syllabus/master/Resources/Images/header.png)
 
-~~Maintainable and Scalable Systems through Collaboration, VCS, and Open Source Software (CS 491/591)~~ 
+~~Maintainable and Scalable Systems through Collaboration, VCS, and Open Source Software~~ 
 Making Apps
 ========
 
