@@ -6,7 +6,7 @@ Making Apps
 
 The class syllabus lives here. Make sure to watch this repository so you can be notified if things change. You can click the little eye at the top of the page to change your settings so you receive email notifications if things change. This class is highly experimental in its techniques and class structure, but is actually very modern in its approach to using the current and respected tools of the day for efficient and maintainable software engineering practices. Below you will find the meta about the class as well as a tentative schedule of assignments and tests. Happy Coding!
 
-<b>Where: </b> AIME 111       <b>When: </b> Tuesdays 2:30-4:30 PM
+<b>Where: </b> AIME ??       <b>When: </b> Tuesdays 3:30-5 PM
 
 ## Table of Contents
 * [Class Structure](#class-structure)
